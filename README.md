@@ -12,6 +12,7 @@
 4. End Points - 
 
    http://localhost:8080/accounts (will display all account and their transactions)
+   
    ![Swagger Contracts](readmeDiagrams/Swagger1.png)
    
    ![Swagger Contracts](readmeDiagrams/Swagger2.png)
