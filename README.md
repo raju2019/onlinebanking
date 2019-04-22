@@ -11,13 +11,20 @@
 
 4. End Points - 
 
-   http://localhost:8080/accounts (will dislay all account and their transactions)
+   http://localhost:8080/accounts (will display all account and their transactions)
+   ![Swagger Contracts](readmeDiagrams/Swagger1.png)
+   
+   ![Swagger Contracts](readmeDiagrams/Swagger2.png)
    
    http://localhost:8080/swagger-ui.html (Swagger End Points)
+   ![Swagger Contracts](readmeDiagrams/Swagger3.png)
    
    
 Assumptions:
 
 1. Spring Security with OAuth could be added as a feature for Security/Authentication of Users
+
+   
+
 
    
