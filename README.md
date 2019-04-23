@@ -13,12 +13,13 @@
 
    http://localhost:8080/accounts (will display all account and their transactions)
    
-   ![Swagger Contracts](readmeDiagrams/Swagger1.png)
+   ![Swagger Contracts](readmeDiagrams/Swagger1.tiff)
    
-   ![Swagger Contracts](readmeDiagrams/Swagger2.png)
+   ![Swagger Contracts](readmeDiagrams/Swagger2.tiff)
    
    http://localhost:8080/swagger-ui.html (Swagger End Points)
-   ![Swagger Contracts](readmeDiagrams/Swagger3.png)
+   
+   ![Swagger Contracts](readmeDiagrams/Swagger3.tiff)
    
    
 Assumptions:
